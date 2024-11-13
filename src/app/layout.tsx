@@ -31,7 +31,7 @@ export default function RootLayout({
           <div className="flex flex-grow">
             <Link href="/">GPT Chat</Link>
             <Link href="/about" className="ml-5 font-light">
-              About
+              About a
             </Link>
           </div>
           <div></div>
